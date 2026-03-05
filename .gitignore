@@ -11,6 +11,6 @@
 . idea/
  target/
   bin/
-out/
- build/ 
+out/ 
+build/
  dist/
